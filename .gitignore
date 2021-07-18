@@ -1,0 +1,6 @@
+# Rust generated files
+/target
+Cargo.lock
+
+# wasm-pack generated files
+pith-lib/pkg
